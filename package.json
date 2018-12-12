@@ -1,0 +1,28 @@
+{
+  "name": "secret-santa-matcher",
+  "version": "1.0.0",
+  "description": "A function to mix and match people taking part in a Secret Santa",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Yann-P/secret-santa-matcher.git"
+  },
+  "keywords": [
+    "secret",
+    "santa",
+    "match",
+    "random"
+  ],
+  "author": "Yann Pellegrini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yann-P/secret-santa-matcher/issues"
+  },
+  "homepage": "https://github.com/Yann-P/secret-santa-matcher#readme",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
